@@ -46,7 +46,7 @@ deep-learning-pytorch/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/deep-learning-pytorch.git
+git clone https://github.com/Abisheck007/PyTorch_Deeplearning.git
 cd deep-learning-pytorch
 
 Hyper parameteres tuning
